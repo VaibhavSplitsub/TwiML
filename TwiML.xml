@@ -1,1 +1,3 @@
-Thanks for calling!
+<Response>
+ <Say>Hi, your OTP is {{OTP}}</Say>
+</Response>
